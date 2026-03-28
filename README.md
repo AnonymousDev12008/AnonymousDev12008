@@ -29,7 +29,7 @@ My work gravitates toward:
 - **Privacy & anonymity tooling** — building systems that leave no trace
 - **Cryptographic applications** — implementing and applying real-world crypto primitives
 - **TUI/CLI interfaces** — crafting usable, ergonomic terminal experiences
-- **AI & generative tooling** — exploring ML pipelines and diffusion models
+- **Data visualization** — translating complex data into interactive visuals
 
 I believe software should be transparent, auditable, and efficient. Most of what I build reflects that.
 
@@ -69,11 +69,11 @@ I believe software should be transparent, auditable, and efficient. Most of what
 
 <div align="center">
 
-![AnonymousDev12008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousDev12008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![AnonymousDev12008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousDev12008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDev12008&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousDev12008&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AnonymousDev12008&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnonymousDev12008&theme=tokyonight&hide_border=true)
 
 </div>
 
