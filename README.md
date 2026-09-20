@@ -11,7 +11,7 @@
 
 ### P. Sai Manikantha Reddy
 **`Cybersecurity Amateur · Python Developer · CLI/TUI Craftsman`**
-**`I break things to understand them and Build things to enhance them.`**
+**`I Break Things To Understand Them And Build Things Back To Enforce Them.`**
 
 📍 Visakhapatnam, India &nbsp;|&nbsp; 🌐 Open to Collaboration
 
